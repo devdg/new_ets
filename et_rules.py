@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 
-import numpy
 import pandas as pd
 from datetime import datetime
-import os
 import requests
 import re
 
