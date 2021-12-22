@@ -8,6 +8,6 @@ python3 et_rules.py
 
 Searching for something specific is as easy as using ```--search <whatever you want>```.
 
-If you want to check all rulesets, rather than my specialy canned choice, then use ```--all``` but obviously this generates a lot of output.
+If you want to check all rulesets, rather than my canned choice, then use ```--all``` but obviously this generates a lot of output.
 
 You may want to pipe this into a file or elsewhere.
