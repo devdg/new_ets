@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 import numpy
-import webbrowser
 import pandas as pd
 from datetime import datetime
 import os
